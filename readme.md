@@ -10,7 +10,7 @@ This project was done in around 12 hours. Here is a video showing its functional
 
 [Hosted Webpage Demo](https://fldsantos.github.io/clickspeedtest/)
 
-[Software Demo Video]()
+[Software Demo Video](https://www.youtube.com/watch?v=OwWTv68Q6n4)
 
 # Development Environment
 

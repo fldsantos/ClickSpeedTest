@@ -1,4 +1,4 @@
-//Wrote a class for the stopwatch, and it is customized to interact with the DOM, and it displays its results directly in a selected element.
+    //Wrote a class for the stopwatch, and it is customized to interact with the DOM, and it displays its results directly in a selected element.
 class Stopwatch {
     private ms = 0;
     private run = true;
