@@ -24,7 +24,7 @@ var Stopwatch = /** @class */ (function () {
             clickRate = c / 5;
             console.log(clickRate);
             for (var i = 0; i <= 6; i++) {
-                resultsArray[i].full_description = "Your click rate was ".concat(clickRate, " ").concat(resultsArray[i].description);
+                resultsArray[i].full_description = "Your click rate was ".concat(clickRate, "! ").concat(resultsArray[i].description);
                 console.log(resultsArray[i].description);
             }
             if (c <= 2) {

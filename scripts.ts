@@ -25,7 +25,7 @@ class Stopwatch {
             console.log(clickRate);
 
             for (let i = 0;i <= 6; i++) {
-                resultsArray[i].full_description = `Your click rate was ${clickRate} ${resultsArray[i].description}`;
+                resultsArray[i].full_description = `Your click rate was ${clickRate}! ${resultsArray[i].description}`;
                 console.log(resultsArray[i].description)
             }
             
