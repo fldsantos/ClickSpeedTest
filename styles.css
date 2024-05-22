@@ -1,0 +1,71 @@
+body {
+    background-color: lightblue;
+}
+
+#app {
+    padding-top: 100px;
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+}
+
+#results {
+    background-color: lightcyan;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+
+    border-style: solid;
+    border-width: 5px;
+}
+
+#results #animal {
+    height: 250px;
+    width: 300px;
+    background-color: yellow;
+    margin: 25px;
+
+    border-style: solid;
+    border-width: 5px;
+}
+
+#results #description {
+    height: 250px;
+    width: 40%;
+    background-color: yellow;
+    margin: 25px;
+
+    border-style: solid;
+    border-width: 5px;
+}
+
+#results #description h3 {
+    margin: 5px;
+}
+
+#timer {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgreen;
+    height: 150px;
+
+    border-left: 5px solid;
+    border-right: 5px solid;
+}
+
+#timer h1 {
+    display: inline;
+}
+
+#click-button{
+    background-color: gray;
+    height: 150px;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+
+}
+
+#click-button:active {
+    background-color: lightgray;
+}
