@@ -9,6 +9,7 @@ I used a similar tool in [this website](https://clickspeedtest.com/) so I could 
 This project was done in around 12 hours. Here is a video showing its functionalities and design.
 
 [Hosted Webpage Demo](https://fldsantos.github.io/clickspeedtest/)
+
 [Software Demo Video]()
 
 # Development Environment
